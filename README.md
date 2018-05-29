@@ -1,2 +1,2 @@
 ## Snake
-Just for fun
+Just for fun | C | OpenGL
